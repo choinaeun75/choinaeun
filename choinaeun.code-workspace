@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "K:/kim-yg/js"
+		},
+		{
+			"path": "K:/kim-yg/css"
+		},
+		{
+			"path": "K:/kim-yg/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "choinaeun"
+	}
+}
